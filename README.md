@@ -5,9 +5,6 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 ![Pages](https://img.shields.io/badge/Dashboard%20Pages-3-blue?style=for-the-badge)
 
-> *"The future of gender equality in Palmoria lies in your hands."*
-> — Mr. Yunus Shofoluwe, CHRO, Palmoria Group
-
 ---
 
 ## 📋 Table of Contents
@@ -413,4 +410,3 @@ This project was developed for analytical and educational purposes for Palmoria 
 
 ---
 
-*"A company that sees its data clearly is a company that can act with confidence."*
