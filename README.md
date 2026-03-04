@@ -22,7 +22,6 @@
 - [Compliance Status](#-compliance-status)
 - [Recommendations](#-recommendations)
 - [Tools Used](#-tools-used)
-- [Project Structure](#-project-structure)
 
 ---
 
